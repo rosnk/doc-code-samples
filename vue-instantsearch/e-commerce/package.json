@@ -11,7 +11,7 @@
     "algoliasearch": "4.12.1",
     "classnames": "2.2.6",
     "instantsearch.js": "^4.5.0",
-    "vue": "2.6.10",
+    "vue": "2.7.10",
     "vue-instantsearch": "3.8.1",
     "vue-slider-component": "3.0.32"
   },
@@ -24,7 +24,7 @@
     "eslint": "5.9.0",
     "eslint-plugin-prettier": "3.3.1",
     "eslint-plugin-vue": "5.2.2",
-    "vue-template-compiler": "2.6.10"
+    "vue-template-compiler": "2.7.10"
   },
   "postcss": {
     "plugins": {

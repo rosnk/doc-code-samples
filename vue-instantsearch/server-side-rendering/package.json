@@ -12,10 +12,10 @@
   "dependencies": {
     "algoliasearch": "4.12.1",
     "instantsearch.css": "7.3.1",
-    "vue": "2.6.10",
+    "vue": "2.7.10",
     "vue-instantsearch": "3.8.1",
     "vue-router": "3.0.6",
-    "vue-server-renderer": "2.6.10"
+    "vue-server-renderer": "2.7.10"
   },
   "devDependencies": {
     "@akryum/vue-cli-plugin-ssr": "0.5.0",
@@ -26,6 +26,6 @@
     "babel-eslint": "10.0.1",
     "eslint": "5.12.0",
     "eslint-plugin-vue": "5.2.2",
-    "vue-template-compiler": "2.6.10"
+    "vue-template-compiler": "2.7.10"
   }
 }

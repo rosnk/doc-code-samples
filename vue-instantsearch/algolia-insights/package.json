@@ -10,9 +10,9 @@
   "dependencies": {
     "algoliasearch": "3.35.1",
     "instantsearch.css": "7.3.1",
-    "vue": "2.6.10",
+    "vue": "2.7.10",
     "vue-instantsearch": "3.8.1",
-    "vue-server-renderer": "^2.6.11"
+    "vue-server-renderer": "2.7.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "3.6.0",
@@ -22,6 +22,6 @@
     "babel-eslint": "10.0.1",
     "eslint": "5.9.0",
     "eslint-plugin-vue": "5.2.2",
-    "vue-template-compiler": "2.6.10"
+    "vue-template-compiler": "2.7.10"
   }
 }

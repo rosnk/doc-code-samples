@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "places.js": "1.16.4",
-    "vue": "2.6.10",
+    "vue": "2.7.10",
     "vue-instantsearch": "3.8.1"
   },
   "devDependencies": {
@@ -20,6 +20,6 @@
     "babel-eslint": "10.0.1",
     "eslint": "5.10.0",
     "eslint-plugin-vue": "5.2.2",
-    "vue-template-compiler": "2.6.10"
+    "vue-template-compiler": "2.7.10"
   }
 }
